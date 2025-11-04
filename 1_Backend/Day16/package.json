@@ -1,0 +1,16 @@
+{
+  "name": "day06",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "<!-- Node js history --> <!-- CJS vs MJS module --> <!-- type: module, mjs extension --> <!-- sync or async , strict and non strict --> <!-- calculator folder to export them in one go -->",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.20.0",
+    "mongoose": "^8.19.2"
+  }
+}

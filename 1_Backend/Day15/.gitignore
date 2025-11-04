@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Parcel build output
+dist/
+.cache/
+
+# Environment variables
+.env
+
+# Lock files 
+ package-lock.json
+
+#  OS-specific files
+.DS_Store
+Thumbs.db
+
